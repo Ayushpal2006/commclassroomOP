@@ -1,5 +1,5 @@
 # Community Classroom is OP
 
 - Kunal Kushwaha says that this community is amazing.
-- More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+- Open source fosters collaboration and innovation by allowing anyone to access, modify, and contribute to software code.
+- Ayush Pal finds the Community Classroom initiative really great!
